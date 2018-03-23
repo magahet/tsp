@@ -1,7 +1,7 @@
 TSP
 ===
 
-CLI tool for calculating the TSP problem given physical addresses.
+CLI tool for calculating TSP optimal path given physical addresses.
 
 "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?" - [Travelling_salesman_problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 
