@@ -1,0 +1,5 @@
+api.key
+addresses.txt
+
+*.pyc
+*.swp
